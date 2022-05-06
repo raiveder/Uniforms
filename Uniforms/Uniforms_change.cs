@@ -92,7 +92,7 @@ namespace Uniforms
         }
 
         /// <summary>
-        /// Заполнение ComboBox
+        /// Заполнение значений ComboBox
         /// </summary>
         private void cbFill()
         {
